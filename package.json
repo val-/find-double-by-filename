@@ -1,0 +1,11 @@
+{
+  "name": "find-double-by-filename",
+  "version": "1.0.0",
+  "description": "find-double-by-filename",
+  "author": "val",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "find-double-by-filename": "index.js"
+  }
+}
